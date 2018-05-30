@@ -1,0 +1,2 @@
+# kuznets
+Curva de Kuznets
